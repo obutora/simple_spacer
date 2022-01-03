@@ -1,7 +1,6 @@
 name: simple_spacer
 description: This is a simple plugin inspired by Tailwindcss that simplifies the writing of Padding.
 version: 0.0.1
-author: hagakun
 homepage: https://github.com/obutora/simple_spacer
 
 environment:
